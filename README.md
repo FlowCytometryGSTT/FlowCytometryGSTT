@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi there 👋
 
+## Cytometry in R
+
+- Favourite Fluorochrome: Anything that's clean and has minimal spread - like ice cold butter
+
+- Previous coding experience: NEQAS Part 2 Questionnaire
+
+- What you hope to get from this course: A peek behind the curtain.
 <!--
 **FlowCytometryGSTT/FlowCytometryGSTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
